@@ -1,0 +1,36 @@
+
+
+body {
+    background-color: #f4f6f9;
+}
+
+.header-atas {
+    background-color: #d1d1d1; 
+}
+
+.toolbar-bawah {
+    background-color: #ffffff;
+}
+
+.sidebar-kiri {
+    background-color: #fdfdfd;
+}
+
+.judul-sidebar {
+    background-color: #434343; 
+    font-weight: bold;
+}
+
+
+.tab-orange {
+    background-color: #f07b3f;
+    color: white;
+    padding: 5px 20px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.garis-orange {
+    border-top: 3px solid #f07b3f;
+    opacity: 1; 
+}
